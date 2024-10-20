@@ -1,0 +1,49 @@
+ <!--RS TUFF GALLARY -->
+           <section class="products section-padding">
+            <div class="container">
+                <div class="row">
+                    
+
+                    <!--PROJECTS-->
+                    <div class="col-12">
+                        <h2 class="mb-5">RS TUFF GALLARY</h2>
+                    </div>
+                    
+                    <div class="col-lg-4 col-12 mb-3">
+                        <div class="product-thumb">
+                            <div class="container">
+                                <img src="images\mirrors\plain-mirror1.jpeg" height="250px" width="250px" alt="">
+                             </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+    
+
+        
+        <!--RS TUFF PROJECTS-->
+
+        <section class="products section-padding">
+            <div class="container">
+                <div class="row">
+                    
+
+                    <!--PROJECTS-->
+                    <div class="col-12">
+                        <h2 class="mb-5">RS TUFF PROJECTS</h2>
+                    </div>
+                    <h6>raj</h6>
+
+                    <div class="col-lg-4 col-12 mb-3">
+                        <div class="product-thumb">
+                            <div class="container">
+                                <img src="images\mirrors\plain-mirror1.jpeg" height="250px" width="250px" alt="">
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>

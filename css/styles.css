@@ -1,0 +1,41 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container11 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-form, .map {
+    width: 48%; /* Adjusted width for equal distribution */
+    margin: 1%; /* Small margin for spacing */
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.map {
+    flex: 1;
+}
+
+iframe {
+    width: 100%;
+    height: 450px;
+    border: 0;
+}
